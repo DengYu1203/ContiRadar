@@ -1,5 +1,5 @@
 # conti_radar
-在看過網路上存Conti雷達的ros msg沒有辦法全部儲存nuScenens所有的資料，於是自己改寫msg。以下是我rosbag儲存的資料類型：
+在看過網路上存Conti雷達的ros msg沒有辦法全部儲存nuScenes所有的資料，於是自己改寫msg。以下是我rosbag儲存的資料類型：
 ## Measurement.msg
 ```cpp=
 Header header
